@@ -2,7 +2,7 @@
 
 **Name**
 
-AiION (Water ions analyzer using artificial intelligence)
+aiION (Geochemical analyzer using artificial intelligence)
 
 **Description**
 
@@ -36,4 +36,4 @@ Algaiar, M.M.
 
 **License**
 
-AiION License
+aiION License
