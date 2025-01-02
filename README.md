@@ -1,4 +1,4 @@
-**AiION - A Deep Neural Network Solute Geothermometer**
+**aiION - A Deep Neural Network Solute Geothermometer**
 
 **Name**
 
@@ -14,7 +14,7 @@ Supervised multilayer deep neural network solving the regression analysis of wat
 
 **Installation**
 
-AiION is based on Python 3.12 and uses several libraries for its functionality, including NumPy, pandas, Matplotlib, seaborn, scikit-learn, TensorFlow and Keras
+aiION is based on Python 3.12 and uses several libraries for its functionality, including NumPy, pandas, Matplotlib, seaborn, scikit-learn, TensorFlow and Keras
 
 **Usage**
 
